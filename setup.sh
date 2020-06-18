@@ -5,9 +5,9 @@
 
 sudo apt update
 
-sudo apt install net-tools htop lame git flatpak \
-nano ubuntu-restricted-extras gnome-tweaks \
-gnome-tweak-tool qt5-style-plugins -yy
+sudo apt install net-tools htop git flatpak \
+nano ubuntu-restricted-extras gnome-tweaks neofetch \
+gnome-tweak-tool qt5-style-plugins breeze-cursor-theme -yy
 
 
 # Remove undesirable packages:
